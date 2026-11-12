@@ -3,7 +3,7 @@
 **Author:** Bhumika Chauhan  
 **Domain:** Retail & E-Commerce Analytics  
 **Tools:** Microsoft Power BI, DAX, Data Modelling, Data Analysis  
-**Reporting Period:** FY 2018
+**Reporting Period:** FY 2026
 
 ---
 
